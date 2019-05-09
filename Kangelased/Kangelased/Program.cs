@@ -32,7 +32,8 @@ namespace Kangelased
 
 			static void Main(string[] args)
 			{
-
+		Console.WriteLine(tegelane);
+		Console.WriteLine("Ohus on 100 inimest. Päästeti" + tegelane(1000));
 			}
 		}
 	}
